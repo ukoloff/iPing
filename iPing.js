@@ -746,7 +746,7 @@ onClick='toggleS(); return false' title='Скрыть строку поиска'>&times;</A>
 </Div>
 <Div id='out'></Div>
 <Div id='footer'>
-&copy; ОАО "<A hRef='http://ekb.ru'>Уралхиммаш</A>", 2011
+&copy; ОАО "<A hRef='http://ekb.ru' Target='_blank'>Уралхиммаш</A>", 2011
 </Div>
 </body></html>
 *** [end] ***/

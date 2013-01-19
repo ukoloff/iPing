@@ -527,7 +527,9 @@ H1	{
  margin: 0;
 }
 Div#footer {
- margin-top: 1em;
+ position: absolute;
+ bottom: 0;
+ width: 100%;
  border-top: 1px dotted black;
  font-size: 62%;
 }

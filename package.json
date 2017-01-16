@@ -1,0 +1,29 @@
+{
+  "name": "iPing",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Windows mass-ping GUI",
+  "repository": {
+    "type": "git",
+    "url": "git+https://ukoloff@github.com/ukoloff/iPing.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Stas Ukolov",
+    "email": "ukoloff@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ukoloff/iPing/issues"
+  },
+  "homepage": "https://github.com/ukoloff/iPing",
+  "devDependencies": {
+    "coffee-loader": "^0.7.2",
+    "coffee-script": "^1.12.2",
+    "iconv-lite": "^0.4.15",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^2.4.0",
+    "webpack": "^1.14.0",
+    "without": "^1.2.2"
+  }
+}
